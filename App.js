@@ -9,11 +9,11 @@ import Router from './Router';
 class App extends Component {
   componentWillMount() {
     const config = {
-      apiKey: ' AIzaSyBIUlxdLreAkEHhX6b3fFBWjvAFFD8Elos',
-      authDomain: 'engup-db503.firebaseapp.com',
-      databaseURL: 'https://engup-db503.firebaseio.com',
-      storageBucket: 'engup-db503.appspot.com',
-      messagingSenderId: '749282617098'
+      apiKey: ' xxxxxx',
+      authDomain: 'xxxxxxxx',
+      databaseURL: 'xxxxxxx',
+      storageBucket: 'xxxxxxx',
+      messagingSenderId: 'xxxxxxxxx'
     };
 
     firebase.initializeApp(config);    
